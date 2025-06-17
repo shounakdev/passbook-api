@@ -1,0 +1,56 @@
+{
+  "shounak": {
+    "global": {
+      "canCreateBranch": true
+    },
+    "branchAccess": {
+      "main": "edit",
+      "dev": "edit"
+    }
+  },
+  "alice": {
+    "global": {
+      "canCreateBranch": false
+    },
+    "branchAccess": {
+      "main": "view",
+      "dev": "edit"
+    }
+  },
+  "bob": {
+    "global": {
+      "canCreateBranch": false
+    },
+    "branchAccess": {
+      "main": "view"
+    }
+  }
+}
+{
+  "shounak": {
+    "global": {
+      "canCreateBranch": true
+    },
+    "branchAccess": {
+      "main": "edit",
+      "dev": "edit"
+    }
+  },
+  "alice": {
+    "global": {
+      "canCreateBranch": false
+    },
+    "branchAccess": {
+      "main": "view",
+      "dev": "edit"
+    }
+  },
+  "bob": {
+    "global": {
+      "canCreateBranch": false
+    },
+    "branchAccess": {
+      "main": "view"
+    }
+  }
+}

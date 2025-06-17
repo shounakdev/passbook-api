@@ -1,0 +1,9 @@
+{
+  "message": "Initial Commit",
+  "timestamp": "2025-06-06T13:28:45+05:30",
+  "author": "Shounak",
+  "tree": {
+    "file.txt": "33ab5639bfd8e7b95eb1d8d0b87781d4ffea4d5d"
+  },
+  "parent": "4b20c4b1363d2c94ab9f873125f36306e70f3611"
+}
