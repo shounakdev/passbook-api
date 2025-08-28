@@ -1,0 +1,17 @@
+{
+  "name": "passbook-api",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "NODE_ENV=production node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.2",
+    "express": "^4.19.2",
+    "serverless-http": "^3.2.0",
+    "zod": "^3.23.8"
+  }
+}
